@@ -60,7 +60,7 @@ async def help(ctx):
 
     await ctx.send(embed=embed)
 
-bot.run('NDg0ODk4OTc4NDE3MzQ0NTEz.Dmot-A.dtb-3T928yJmaiqyFfUkfZI2tSk')
+bot.run('token')
 
 while True:
     if dead=="yeet":
